@@ -1,7 +1,10 @@
 -👋 Hi, I’m Ali Husnain @aliwtw
-- 👀 I’m interested in developing something new, unique and out of this world!
-- 🌱 I’m currently learning C++,Java,javaScript and everything I come across
-- 💞️ I’m looking to collaborate on Ai Projects
-- 📫 My Email alihwtw@gmail.com
 
+👀 This is a Java Insurance Company Program
 
+About this program--------------- 
+
+This is a GUI Object oriented program for a cars insurance company.
+It fulfills all requirements on industry level from data entry, data manipulation, data storage and dtaquires .
+
+This program also takes all of the exceptions into consideration
